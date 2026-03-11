@@ -133,8 +133,6 @@ Hate_Speech_Recon/
 ├── outputs/
 │   ├── figures/                       # Visualizations
 │   └── reports/                       # Performance reports
-│
-├── requirements.txt
 ```
 
 ## 💻 Usage
