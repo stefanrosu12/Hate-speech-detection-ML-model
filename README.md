@@ -105,7 +105,7 @@ cp /path/to/train.csv data/raw/
 ## 📁 Project Structure
 
 ```
-hate_speech_detection/
+Hate_Speech_Recon/
 │
 ├── data/
 │   ├── raw/                      # Original dataset
@@ -135,7 +135,6 @@ hate_speech_detection/
 │   └── reports/                       # Performance reports
 │
 ├── requirements.txt
-└── README.md
 ```
 
 ## 💻 Usage
