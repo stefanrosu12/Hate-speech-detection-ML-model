@@ -4,7 +4,6 @@ An end-to-end machine learning system for detecting hate speech and offensive la
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
 
@@ -284,52 +283,9 @@ Actual  HS   [350] [980]  [100]
 - [ ] Integrate image and emoji analysis
 - [ ] Continuous learning pipeline
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Dataset**: Twitter Hate Speech Dataset
 - **Libraries**: scikit-learn, NLTK, pandas, matplotlib, seaborn
 - **Inspiration**: Modern NLP and content moderation research
 - **Course**: Knowledge-Based Systems (Sisteme bazate pe Cunoaștere)
-
-## 📧 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/hate-speech-detection](https://github.com/yourusername/hate-speech-detection)
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
----
-
-### 📊 Project Stats
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/hate-speech-detection)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/hate-speech-detection)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/hate-speech-detection?style=social)
-
-### 🔗 Related Resources
-
-- [Original Dataset Source](https://github.com/t-davidson/hate-speech-and-offensive-language)
-- [scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [NLTK Documentation](https://www.nltk.org/)
-- [NLP Best Practices](https://github.com/microsoft/nlp-recipes)
-
----
-
-*Made with ❤️ for safer online communities*
